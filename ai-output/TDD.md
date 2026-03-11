@@ -7,7 +7,7 @@ aasharma23/ai-readme-fetcher-agentic
 
 ## Files
 
-['README.md']
+['README.md', 'ai-output']
 
 ## Overview
 
